@@ -1,4 +1,4 @@
-# E-commerce Software Solution
+# BloomAI Commerce
 
 A full-stack e-commerce platform tailored for businesses in the floral industry. It provides an online storefront backed by an AI-driven recommendation system.
 
